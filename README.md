@@ -4,7 +4,7 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
 <!-- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
-<div align="center" margin-bottom="10px">
+<div align="center" margin-bottom=10px>
 <img align="center" src="/Images/proifle.gif" />
 <img src="/Images/progfile.gif" />
 </div> 
