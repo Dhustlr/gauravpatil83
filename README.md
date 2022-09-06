@@ -5,7 +5,7 @@
 </p>
 <!-- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
 <div align="center" margin-bottom=10px>
-<img align="center" src="/Images/proifle.gif" />
+<!-- <img align="center" src="/Images/proifle.gif" /> -->
 <img src="/Images/progfile.gif" />
 </div> 
 <div align="center" size='20px'>
