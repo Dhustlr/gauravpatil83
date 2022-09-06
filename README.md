@@ -4,8 +4,10 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
 <!-- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
-<img src="/Images/proifle.gif" />
+<div align="center">
+<img align="center" src="/Images/proifle.gif" />
 <img src="/Images/progfile.gif" />
+</div> 
 <div align="center" size='20px'>
  <h3>
  An passionate full-stack developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
