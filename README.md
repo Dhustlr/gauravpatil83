@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil83&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil83" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil83" alt="gauravpatil83" /></a> </p>
-
-- 🌱 I’m currently learning **Java, Springboot, SQL, AWS, Hibernate.**
-
-- 💬 Ask me about **java, springboot, sql, aws.**
-
-- 📫 How to reach me **patilgc83@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =25px width = 25px> , I'm Gaurav Patil</h1>
+<p align='center'> </h1>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Java+Backend+developer." /></a>
 </p>
+<!-- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
+<div align="center" margin-bottom=10px>
+<!-- <img align="center" src="/Images/proifle.gif" /> -->
+<img src="/Images/progfile.gif" />
+</div> 
+<div align="center" size='20px'>
+ <h3>
+ An passionate full-stack developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ </h3>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="center" text-decoration="none"><a href="#" target="_blank" rel="noopener noreferrer" >
+    Visit my website
+</a></h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil83&show_icons=true&locale=en&layout=compact" alt="gauravpatil83" /></p>
+<!-- - 🎯 Java Backend Developer -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravpatil83&show_icons=true&locale=en" alt="gauravpatil83" /></p>
+<div align="center">
+<h2 > Skills & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height =25px width = 25px> </h2>
+<a href= "https://github.com/gauravpatil83?tab=repositories&q=&type=&language=javascript&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= "https://github.com/gauravpatil83?tab=repositories&q=&type=&language=bootstrap&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= "https://github.com/gauravpatil83?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= "https://github.com/gauravpatil83?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= "https://github.com/gauravpatil83/Array-operations-in-java "> <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= "https://github.com/gauravpatil83?tab=repositories&q=&type=&language=css&sort= "> <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil83&" alt="gauravpatil83" /></p>
+ <img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" /> 
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravpatil83&show_icons=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil83)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauravpatil83)
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatil83&layout=compact&theme=vue&hide_border=true" />
+
+ </div>
+
+<h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+
+<a href="https://www.linkedin.com/in/dhustlr/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+<!-- <a href="https://codesandbox.io/u/"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
+<a href="https://medium.com/"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
+ -->
