@@ -16,13 +16,8 @@
 -  📄 This is [My Resume]()
 - 📫 How to reach me: ...**patilgc83@gmail.com**
 
-<h2 align="center"><i>Let's Connect</i></h2>
 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/gauravpatil83/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gauravpatil83/" />
-    </a>
 
 
 <br>
@@ -56,45 +51,76 @@
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-### <h2><i>💻 Databases</i></h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
 
+
+<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
+<!--   <br/> -->
+   <a href="https://github.com/gauravpatil83"><img alt="Gaurav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gauravpatil83&custom_title=Gaurav's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil83" alt="gaurav" /></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravpatil83&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravpatil83&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravpatil83&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravpatil83&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravpatil83&theme=solarized_dark&utcOffset=8">
+	
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+## 📊 My Github Stats
+
+<p align="left" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=gauravpatil83&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil83&theme=algolia" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikram2312/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
  
- 
- 
-<!---------------- Social Media Links Section------------------------->
-
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <br>
-<h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
-   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil83&theme=onedark" alt="gauravpatil83" />
-    </p>
-
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil83&theme=radical" alt="Gaurav" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gauravpatil83&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatil83&theme=radical&langs_count=8" alt="Gaurav" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=gauravpatil83&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
-
-
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-
-<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
-
