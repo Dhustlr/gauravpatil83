@@ -115,10 +115,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-## Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauravpatil83/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
