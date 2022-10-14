@@ -13,7 +13,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gauravpatil83.github.io/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gauravpatil83/)
--  📄 This is [My Resume]()
+-  📄 This is [My Resume](https://drive.google.com/file/d/10XNLN9k4NiCXLzEUBUfTcoU5ARn8BWvH/view?usp=sharing)
 - 📫 How to reach me: ...**patilgc83@gmail.com**
 
 
