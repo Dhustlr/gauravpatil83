@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/gauravpatil83)  
 
 
-<div align ="center" ;width="100%"> <img width="97%"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif"> </div>
+<div align ="center" ;width="100%"> <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a> </div>
 
 
 
