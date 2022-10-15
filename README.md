@@ -5,7 +5,7 @@
 
 
 
-
+<br>
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
@@ -18,9 +18,6 @@
 
 
 
-
-
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -61,7 +58,7 @@
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
+<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> 
 
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
