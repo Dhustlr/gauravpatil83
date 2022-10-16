@@ -31,7 +31,8 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero)  -->
 
 
-<img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/max/1280/1*ooRqKwk2eeDjqk31nwDGaw.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://camo.githubusercontent.com/271b74915eff281b5329ad7d1d706ac361640c6023fa2ce4519a96c955da8be8/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d3832623733313466653936633461326438663330383832303761346166643864">
+
 <br>
 <! -----------------Tech Stack Section--------------------- >
 
