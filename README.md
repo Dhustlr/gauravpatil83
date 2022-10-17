@@ -29,8 +29,8 @@
 
 
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravpatil83/) ![Gmail](https://img.shields.io/badge/patilgc83@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<!-- ## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravpatil83/) ![Gmail](https://img.shields.io/badge/patilgc83@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero)  -->
 
 
