@@ -4,24 +4,27 @@
 <div align ="center" ;width="100%"> <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a> </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Gaurav+Patil!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"> 😇(Hello everyone) 👋</h1>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gauravpatil83.github.io/)
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gauravpatil83/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gauravrajepatil/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/10XNLN9k4NiCXLzEUBUfTcoU5ARn8BWvH/view?usp=sharing)
 - 📫 How to reach me: ...**patilgc83@gmail.com**
 
 
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Gaurav!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
