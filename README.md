@@ -84,7 +84,7 @@
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatil83&theme=radical&langs_count=8" alt="Gaurav Patil" height="260px" width="25%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatil83&theme=radical&langs_count=8" alt="Gaurav Patil" height="260px" width="25%" />
 
 <div>
 
