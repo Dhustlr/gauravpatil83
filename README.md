@@ -21,7 +21,7 @@
 - 👨‍💻 This is [My Portfolio](https://gauravpatil83.github.io/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gauravrajepatil/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/10XNLN9k4NiCXLzEUBUfTcoU5ARn8BWvH/view?usp=sharing)
-- 📫 How to reach me: ...**patilgc83@gmail.com**
+- 📫 How to reach me: ...**gauravpatil.tech@gmail.com**
 
 
 
