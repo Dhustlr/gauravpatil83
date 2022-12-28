@@ -97,7 +97,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil83" alt="gaurav" /></a></p>
   
   
-  <img src="https://raw.githubusercontent.com/gauravpatil83/gauravpatil83/main/profile-3d-contrib/profile-night-rainbow.svg">
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
