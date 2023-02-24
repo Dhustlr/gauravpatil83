@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅.
 - 💬 Ask me about Java, Spring, Hibernate, SQL.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gauravpatil83.github.io/)
 - 📄 This is [My Resume](https://drive.google.com/file/d/10XNLN9k4NiCXLzEUBUfTcoU5ARn8BWvH/view?usp=sharing)
 - 📫 How to reach me: ...**gauravpatil.tech@gmail.com**
