@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅.
+- 🔭 I’m currently working on Backend and Frontend technologies😅.
 - 💬 Ask me about Java, Spring, Hibernate, SQL.
 - 👨‍💻 This is [My Portfolio](https://gauravpatil83.github.io/)
 - 📄 This is [My Resume](https://drive.google.com/file/d/10XNLN9k4NiCXLzEUBUfTcoU5ARn8BWvH/view?usp=sharing)
